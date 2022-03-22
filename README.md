@@ -1,1 +1,3 @@
-# compute_canada_gpu_benchmarks
+# A simple compute canada GPU benchmark for distributed sparse neural networks
+
+
